@@ -7,8 +7,9 @@
 ##   👋 Hi I'm Dana Salh  
 
 ###  💻 Sofware Engineering Student 
-
+<p align ="center">
 <img src="Little power robot.gif" width="90"/>
+</p>
 
 <a href="https://www.linkedin.com/in/dana-salh-4a5124269/">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40"/>
