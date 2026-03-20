@@ -1,4 +1,4 @@
-##  👋 Hi I'm Dana Salh 
+##  👋 Hi I'm Dana Salh  <img src="LINK_TO_ROBOT_GIF" width="40"/>
 
 ###💻 Sofware Engineering Student 
 
