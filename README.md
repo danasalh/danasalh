@@ -1,4 +1,10 @@
-##  👋 Hi I'm Dana Salh  <img src="Little power robot.gif" width="40"/>
+
+
+
+<img src="Little power robot.gif" width="90"/>
+
+
+##  👋 Hi I'm Dana Salh  
 
 ###💻 Sofware Engineering Student 
 
