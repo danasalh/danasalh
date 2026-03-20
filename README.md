@@ -1,4 +1,4 @@
-##  👋 Hi I'm Dana Salh  <img src="C:\Users\انس صالح\Documents\GitHub\danasalh\Little power robot.gif" width="40"/>
+##  👋 Hi I'm Dana Salh  <img src="Little power robot.gif" width="40"/>
 
 ###💻 Sofware Engineering Student 
 
