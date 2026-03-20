@@ -4,11 +4,11 @@
 
 
 
-## <img src="Little power robot.gif" width="90"/>  👋 Hi I'm Dana Salh  
+##   👋 Hi I'm Dana Salh  
 
-###💻 Sofware Engineering Student 
+###  💻 Sofware Engineering Student 
 
-
+<img src="Little power robot.gif" width="90"/>
 
 <a href="https://www.linkedin.com/in/dana-salh-4a5124269/">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40"/>
