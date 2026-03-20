@@ -12,3 +12,9 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40"/>
 </a>
 
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danasalh&layout=compact&theme=tokyonight)
+
