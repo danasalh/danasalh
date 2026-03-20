@@ -1,4 +1,4 @@
-##  👋 Hi I'm Dana Salh  <img src="LINK_TO_ROBOT_GIF" width="40"/>
+##  👋 Hi I'm Dana Salh  <img src="src="https://lottie.host/9bdec6ed-7a9b-4219-942d-4f62a4ee834a/s6feinwyaF.lottie"" width="40"/>
 
 ###💻 Sofware Engineering Student 
 
