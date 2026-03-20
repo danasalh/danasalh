@@ -8,7 +8,7 @@
 
 ###  💻 Sofware Engineering Student 
 <p align ="center">
-<img src="Little power robot.gif" width="90"/>
+<img src="Little power robot.gif" width="100"/>
 </p>
 
 <a href="https://www.linkedin.com/in/dana-salh-4a5124269/">
