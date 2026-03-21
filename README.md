@@ -1,5 +1,3 @@
-<p align ="center">
-
 
 
 
@@ -24,6 +22,8 @@ animation: typing 3s steps(20, end) forwards, blink 0.75s step-end infinite;
 </style>
 <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text">Hi I'm Dana Salh</text>
 </svg>
+
+<p align ="center">
   
 <img src="Little power robot.gif" width="100" color=rgb(226,180,180)>
 </p>
