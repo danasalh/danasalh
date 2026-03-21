@@ -4,7 +4,7 @@
 </p>
 
 <p align ="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+I'm+Dana+Salh&center=true&width=500&height=50&color=rgb(226,180,180)">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+I'm+Dana+Salh&center=true&width=500&height=50&color=lightpink">
 </p>
 
 <a href="https://www.linkedin.com/in/dana-salh-4a5124269/">
