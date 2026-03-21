@@ -6,6 +6,7 @@
 <p align ="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+I'm+Dana+Salh&center=true&width=500&height=50&color=lightpink">
 </p>
+
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="50">
   <text x="50%" dominant-baseline="middle" text-anchor="middle" fill="#e2b4b4" font-size="24"
      👋  Hi I'm Dana Salh
