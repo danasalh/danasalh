@@ -1,5 +1,5 @@
 <p align ="center">
-<img src="Little power robot pink.gif" width="100"/>
+<img src="Little power robot.gif" width="100"/>
 </p>
 
 
