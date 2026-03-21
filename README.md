@@ -1,10 +1,10 @@
 <p align ="center">
   
-<img src="Little power robot.gif" width="100" color="e2b4b4">
+<img src="Little power robot.gif" width="100" color=rgb(226,180,180)>
 </p>
 
 <p align ="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+I'm+Dana+Salh&center=true&width=500&height=50&colors=2b4b4">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+I'm+Dana+Salh&center=true&width=500&height=50&color=rgb(226,180,180)">
 </p>
 
 <a href="https://www.linkedin.com/in/dana-salh-4a5124269/">
