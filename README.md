@@ -1,10 +1,6 @@
-
-
-
 <p align ="center">
-<img src="Little power robot.gif" width="100"/>
+<img src="Little power robot pink.gif" width="100"/>
 </p>
-
 
 ##   👋 Hi I'm Dana Salh  
 
@@ -22,7 +18,5 @@
 
 
 
-
 ## 🛠  Tech Stack 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danasalh&layout=compact&theme=tokyonight)
-
