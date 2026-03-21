@@ -5,7 +5,7 @@ im= Image.open("Little power robot.gif")
 frames =[]
 
 for frme in range (im.n_frames):
-   im.seek(frame)
+   im.seek(frme)
    frameimage =im.convert("RGBA")
 
    data  = frameimage.getdata()
@@ -15,8 +15,7 @@ for frme in range (im.n_frames):
          newdata.append((255,105,180 ,item[3]))
       else:
          newdata.append(item)
-  frameimage.putdata(newdata)
-  frame.append(frameimage)
+   frameimage.putdata(newdata)
+   frames.append(frameimage)
 
-frams[0].save("Little power robot.gif" , save_all=true , append_image=frames[1:] , loop=0 duration=im.info['duration'])
-
+frames[0].save("Little power robot.gif" , save_all=True , append_image=frames[1:] , loop=0 , duration=im.info['duration'])
