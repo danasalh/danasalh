@@ -5,7 +5,6 @@
 
 ##   👋 Hi I'm Dana Salh  
 
-###  💻 Sofware Engineering Student 
 
 
 <a href="https://www.linkedin.com/in/dana-salh-4a5124269/">
