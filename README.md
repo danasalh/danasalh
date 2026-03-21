@@ -5,8 +5,6 @@
 </p>
 
 
-##   👋 Hi I'm Dana Salh  
-
 
 
 <a href="https://www.linkedin.com/in/dana-salh-4a5124269/">
