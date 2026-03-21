@@ -18,4 +18,4 @@ for frme in range (im.n_frames):
    frameimage.putdata(newdata)
    frames.append(frameimage)
 
-frames[0].save("Little power robot pink.gif" , save_all=True , append_image=frames[1:] , loop=0 , duration=im.info['duration'])
+frames[0].save("Little power robot.gif" , save_all=True , append_image=frames[1:] , loop=0 , duration=im.info['duration'])
