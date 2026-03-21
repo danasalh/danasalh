@@ -1,6 +1,6 @@
 <p align ="center">
   
-<img src="Little power robot.gif" width="100"/ co>
+<img src="Little power robot.gif" width="100" colore="e2b4b4">
 </p>
 
 <p align ="center">
